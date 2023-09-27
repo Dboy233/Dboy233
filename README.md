@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+homepage.;----Dboy----)](https://git.io/typing-svg)
+<div align="center">
 
+<!-- 欢迎标语 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+homepage.;----Dboy----" alt="Typing SVG" /></a>
 
-![coding](assets/images/coding.gif)
+<!-- 打字动画 -->
+<img alt="coding" src="assets/images/coding.gif"><br>
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
@@ -12,4 +15,8 @@
   <a href="https://juejin.cn/user/1855631359213688">
     <img alt="Static Badge" src="https://img.shields.io/badge/-%E6%8E%98%E9%87%91-blue?logo=Juejin&logoColor=%23007FFF&labelColor=%23ffffff">
   </a>
+</div>
+
+
+
 </div>
