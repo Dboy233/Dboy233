@@ -26,3 +26,21 @@
 </div>
 
 
+```mermaid
+mindmap
+  root((Dboy))
+    能力
+      Android
+      Flutter
+      Golang
+      Python
+    爱好
+      钢琴
+      吉他
+      撸猫
+      玩游戏
+    游戏
+      Dark Souls Ⅲ
+      NieR:Automata
+      CS:GO
+```
