@@ -23,7 +23,7 @@
   <img alt="github contribution grid snake animation" src="https://github.com/Dboy233/Dboy233/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -47,3 +47,18 @@ mindmap
       NieR:Automata
       CS:GO
 ```
+
+<table style="width:100%;" cellpadding="2" cellspacing="0" align="center" border="0" bordercolor="#FFFFFF" class="ke-zeroborder" bordercolor="#000000">
+		<tbody>
+			<tr>
+				<td>
+				 <img src="https://github-readme-stats.vercel.app/api?username=Dboy233&show_icons=true&theme=transparent&hide_border=true&locale=cn"/>
+				</td>
+				<td>
+					 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dboy233&theme=transparent&langs_count=3&hide_border=true&locale=cn"/>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
