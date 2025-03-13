@@ -36,7 +36,7 @@ mindmap
       Android
       Flutter
       Golang
-      Python
+      Rust
     爱好
       钢琴
       吉他
