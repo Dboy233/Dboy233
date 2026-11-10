@@ -3,6 +3,14 @@
 <!-- 欢迎标语 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+homepage.;----Dboy----" alt="Typing SVG" /></a>
 
+<!-- 近况说明 -->
+<div align="center">
+  <b>近况说明</b><br><br>
+  目前已转行做消防员，不再从事软件开发工作。<br>
+  本账号下的开源仓库暂时无法及时维护，issue / PR 回复与版本更新都会明显滞后。<br>
+  代码仍保持公开，有需要可自行 fork 参考。感谢一路的关注。<br>
+</div>
+
 <!-- 打字动画 -->
 <img alt="coding" src="assets/images/coding.gif"><br>
 
