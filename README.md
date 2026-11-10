@@ -60,10 +60,10 @@ mindmap
 		<tbody>
 			<tr>
 				<td>
-				 <img src="https://github-readme-stats.vercel.app/api?username=Dboy233&show_icons=true&theme=transparent&hide_border=true&locale=cn"/>
+				 <img src="https://github-stats-extended.vercel.app/api?username=Dboy233&show_icons=true&theme=transparent&hide_border=true&locale=cn"/>
 				</td>
 				<td>
-					 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dboy233&theme=transparent&langs_count=3&hide_border=true&locale=cn"/>
+					 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dboy233&theme=transparent&langs_count=3&hide_border=true&locale=cn"/>
 				</td>
 			</tr>
 		</tbody>
